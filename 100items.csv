@@ -1,0 +1,111 @@
+foodName,proteinAmt,calorieAmt,cost
+Crunchy Taco (Taco Bell),8,170,1.89
+Soft Taco (Taco Bell),9,180,1.99
+Bean Burrito (Taco Bell),13,350,2.49
+Chicken Quesadilla (Taco Bell),27,520,5.49
+Steak Quesadilla (Taco Bell),27,520,5.99
+Cheesy Gordita Crunch (Taco Bell),20,500,4.89
+Nachos BellGrande (Taco Bell),16,740,5.79
+Turkey Bacon & Egg White Sandwich (Starbucks),17,230,5.45
+Double-Smoked Bacon Cheddar Sandwich (Starbucks),27,500,6.25
+Spinach Feta Egg White Wrap (Starbucks),20,290,5.45
+Grilled Cheese Sandwich (Starbucks),19,540,6.25
+Chicken Maple Butter Sandwich (Starbucks),16,460,7.25
+Bacon Gouda Egg Sandwich (Starbucks),18,360,4.95
+Orange Chicken (Panda Express),25,490,6.15
+Beijing Beef (Panda Express),14,480,6.15
+Broccoli Beef (Panda Express),9,150,6.15
+Kung Pao Chicken (Panda Express),16,290,6.15
+Mushroom Chicken (Panda Express),13,220,6.15
+Black Pepper Angus Steak (Panda Express),19,180,7.5
+Honey Walnut Shrimp (Panda Express),13,360,7.5
+Chick-fil-A Chicken Sandwich (Chick-fil-A),29,440,4.75
+Spicy Chicken Sandwich (Chick-fil-A),28,460,5.15
+Grilled Chicken Sandwich (Chick-fil-A),28,380,7.19
+Grilled Nuggets 8ct (Chick-fil-A),25,130,5.35
+Chick-n-Strips 3ct (Chick-fil-A),29,330,4.99
+Traditional Wings 6ct (Buffalo Wild Wings),42,430,9.99
+Boneless Wings 6ct (Buffalo Wild Wings),31,480,8.99
+Mozzarella Sticks (Buffalo Wild Wings),25,780,6.99
+Crunchwrap Supreme (Taco Bell),16,530,4.99
+Beef Chalupa Supreme (Taco Bell),13,350,3.89
+Chicken Chalupa Supreme (Taco Bell),16,330,4.49
+Steak Chalupa Supreme (Taco Bell),15,330,4.69
+Cheesy Roll Up (Taco Bell),9,180,1.39
+Cheesy Fiesta Potatoes (Taco Bell),4,230,2.59
+Mexican Pizza (Taco Bell),19,540,5.49
+Spicy Potato Soft Taco (Taco Bell),4,240,1.49
+Black Bean Crunchwrap (Taco Bell),12,510,4.99
+Crunchy Taco Supreme (Taco Bell),8,190,2.39
+Egg White & Roasted Red Pepper Egg Bites (Starbucks),15,170,5.45
+Bacon & Gruyere Egg Bites (Starbucks),19,300,5.75
+Sausage Cheddar Egg Sandwich (Starbucks),19,480,4.25
+Impossible Breakfast Sandwich (Starbucks),22,430,5.25
+Ham & Swiss Croissant (Starbucks),18,320,5.45
+Turkey Pesto Panini (Starbucks),33,550,7.95
+Tomato Mozzarella Panini (Starbucks),15,360,6.95
+SweetFire Chicken Breast (Panda Express),14,380,6.15
+String Bean Chicken Breast (Panda Express),14,210,6.15
+Sweet & Sour Chicken Breast (Panda Express),13,380,6.15
+Teriyaki Chicken (Panda Express),36,300,6.15
+Chow Mein (Panda Express),13,510,5.5
+Fried Rice (Panda Express),11,520,5.5
+Chick-fil-A Deluxe Sandwich (Chick-fil-A),33,500,5.85
+Spicy Deluxe Sandwich (Chick-fil-A),33,550,6.25
+Grilled Nuggets 12ct (Chick-fil-A),38,200,7.09
+Waffle Fries Medium (Chick-fil-A),5,420,3.09
+Cobb Salad w/ Nuggets (Chick-fil-A),40,850,9.99
+Traditional Wings 10ct (Buffalo Wild Wings),70,720,14.49
+Boneless Wings 10ct (Buffalo Wild Wings),40,610,12.49
+Naked Tenders 3ct (Buffalo Wild Wings),38,200,7.99
+Asian Zing Boneless Wings 6ct (Buffalo Wild Wings),31,610,9.49
+Buffalo Mac & Cheese (Buffalo Wild Wings),34,850,10.49
+Power Menu Bowl Chicken (Taco Bell),26,460,6.99
+Power Menu Bowl Veggie (Taco Bell),12,420,6.49
+Beefy 5-Layer Burrito (Taco Bell),18,490,3.89
+Burrito Supreme Beef (Taco Bell),16,390,4.69
+Quesarito Beef (Taco Bell),22,650,4.99
+Chicken Soft Taco (Taco Bell),10,190,2.39
+Black Bean Burrito (Taco Bell),12,430,2.99
+Chicken Power Bowl Veggie (Taco Bell),20,480,7.29
+Cheesy Bean and Rice Burrito (Taco Bell),10,420,2.49
+Turkey Bacon Cheddar Egg White Sandwich (Starbucks),17,230,5.25
+Kale and Mushroom Egg Bites (Starbucks),12,230,4.95
+Classic Oatmeal (Starbucks),5,160,3.45
+Berry Trio Parfait (Starbucks),14,240,4.45
+Blueberry Muffin (Starbucks),6,360,3.45
+Chocolate Croissant (Starbucks),7,340,3.95
+Plain Bagel (Starbucks),9,280,2.45
+Everything Bagel (Starbucks),10,290,2.75
+Avocado Spread (Starbucks),1,90,1.25
+Sous Vide Ham Pepper Egg Bites (Starbucks),17,260,5.45
+Honey Sesame Chicken Breast (Panda Express),14,340,6.15
+Shanghai Angus Steak (Panda Express),19,310,7.5
+Super Greens (Panda Express),5,90,4.5
+Veggie Spring Roll 2pc (Panda Express),4,190,2.5
+Cream Cheese Rangoon 3pc (Panda Express),5,190,2.5
+Sweet Chili Shrimp (Panda Express),16,260,7.5
+String Bean Chicken Breast Plate (Panda Express),28,520,8.5
+Orange Chicken Plate (Panda Express),30,780,8.5
+Black Pepper Angus Steak Plate (Panda Express),32,640,9.0
+Honey Walnut Shrimp Plate (Panda Express),25,740,9.0
+Market Salad with Grilled Chicken (Chick-fil-A),28,540,10.49
+Spicy Southwest Salad with Nuggets (Chick-fil-A),33,690,10.99
+Grilled Cool Wrap (Chick-fil-A),37,350,8.15
+Chicken Noodle Soup Bowl (Chick-fil-A),14,240,4.89
+Mac and Cheese Medium (Chick-fil-A),19,450,4.55
+Fruit Cup Medium (Chick-fil-A),1,60,3.49
+Side Salad (Chick-fil-A),6,160,3.89
+Grilled Chicken Club Sandwich (Chick-fil-A),38,520,8.19
+Chick-n-Strips 4ct (Chick-fil-A),37,410,5.79
+Hash Browns (Chick-fil-A),3,250,2.29
+Traditional Wings 6ct Plain (Buffalo Wild Wings),53,430,9.99
+Boneless Wings 6ct Plain (Buffalo Wild Wings),29,360,8.99
+Traditional Wings 15ct Plain (Buffalo Wild Wings),132,1070,20.99
+Classic Chicken Sandwich (Buffalo Wild Wings),40,680,11.49
+Southwest Philly Cheesesteak (Buffalo Wild Wings),56,950,13.49
+All-American Cheeseburger (Buffalo Wild Wings),49,810,12.49
+Garden Side Salad (Buffalo Wild Wings),6,170,4.99
+Buffalo Chicken Tots (Buffalo Wild Wings),28,780,9.99
+Chips and Salsa (Buffalo Wild Wings),6,320,5.99
+Loaded Ice Cream (Buffalo Wild Wings),9,680,5.99

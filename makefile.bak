@@ -1,0 +1,38 @@
+##########################################################################
+#  CROSS-PLATFORM MAKEFILE (Windows MSYS2 / Linux)
+##########################################################################
+
+# Detect OS
+ifeq ($(OS),Windows_NT)
+    EXE = fooddb.exe
+    STATIC_FLAGS = -static -static-libgcc -static-libstdc++
+else
+    EXE = fooddb
+    STATIC_FLAGS =
+endif
+
+CXX = g++
+CXXFLAGS = -std=c++17 -O2 -Wall -Wextra -Iheaders -Isrc $(STATIC_FLAGS)
+
+# Find all .cpp files inside src/
+SRC = $(wildcard src/*.cpp)
+
+# Convert all src/*.cpp → src/*.o
+OBJ = $(SRC:.cpp=.o)
+
+# Default target
+all: $(EXE)
+
+$(EXE): $(OBJ)
+	$(CXX) $(CXXFLAGS) -o $(EXE) $(OBJ) -lpthread
+
+src/%.o: src/%.cpp
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+clean:
+	rm -f src/*.o $(EXE) tree_data.bin
+
+run: $(EXE)
+	./$(EXE)
+
+.PHONY: all clean run
