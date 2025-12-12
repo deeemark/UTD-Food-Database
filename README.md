@@ -37,5 +37,5 @@ Future Work
 * Secondary indexing
 * Object heap and better serialization for expanded categories
 * WAL logging
-* 
+
 Developed by: DeMarkus Taylor
